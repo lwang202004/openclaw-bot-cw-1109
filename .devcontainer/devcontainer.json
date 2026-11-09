@@ -2,7 +2,7 @@
   "name": "OpenClaw AI Bot CW1109",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
-    "ghrc.io/devcontainers/features/node:1": {
+    "ghcr.io/devcontainers/features/node:1": {
       "version": "22"
     }
   },
